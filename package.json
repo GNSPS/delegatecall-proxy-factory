@@ -1,0 +1,34 @@
+{
+  "name": "delegatecall-proxy-factory",
+  "version": "0.0.5",
+  "description": "Solidity's `delegatecall` proxy factory",
+  "main": "truffle.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:GNSPS/delegatecall-proxy-factory.git"
+  },
+  "files": [
+    "contracts",
+    "test"
+  ],
+  "keywords": [
+    "ethereum",
+    "bytes",
+    "solidity",
+    "library"
+  ],
+  "authors": [
+    "Gonçalo Sá <goncalo.sa@consensys.net>"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GNSPS/delegatecall-proxy-factory/issues"
+  },
+  "homepage": "https://github.com/GNSPS/delegatecall-proxy-factory#readme",
+  "dependencies": {
+    "truffle-hdwallet-provider": "0.0.3"
+  },
+  "devDependencies": {
+    "truffle": "^4.1.11"
+  }
+}

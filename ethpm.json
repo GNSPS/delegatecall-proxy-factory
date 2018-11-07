@@ -1,0 +1,18 @@
+{
+  "package_name": "proxy",
+  "version": "0.0.5",
+  "description": "Solidity delegatecall proxy factory",
+  "authors": [
+    "Gonçalo Sá <goncalo.sa@consensys.net>"
+  ],
+  "keywords": [
+    "delegate",
+    "delegatecall",
+    "utils",
+    "solidity",
+    "factory"
+  ],
+  "dependencies": {
+  },
+  "license": "MIT"
+}
