@@ -18,6 +18,8 @@ or, if you have installed it from EPM (see below), with Truffle's specific paths
 import "proxy/ProxyFactory.sol";`
 ```
 
+or simply by deploying it in your migrations files.
+
 ## EthPM
 
 This library is published in EPM under the alias `proxy`
